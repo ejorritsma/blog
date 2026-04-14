@@ -1,5 +1,5 @@
 ---
-title: "DDD By Yourself: Just Pick a Dumb Idea"
+title: "DDD By Yourself 1: Just Pick a Dumb Idea"
 date: 2026-04-14
 ---
 
@@ -33,4 +33,4 @@ By thinking about my domain on pen and paper, I learned a few things:
 Eventually, I came up with two domain entities: `Asset` and `MaintenanceTask`. The idea is that an `Asset` can have one or more `MaintenanceTask`'s. Think of an asset called "Dishwasher", that could have a MaintenanceTask to clean the filter once a week, and another to run a full self cleaning programme every four weeks.
 
 ### To the task!
-Now that we have our problem domain, it is time to start building! However, I immediately ran into the problem that there are very few understandable examples of implementing DDD onilne, except for a few very basic ones. That's why I used ChatGPT during my learning process. I'd encourage you to do this, too!
+Now that we have our problem domain, it is time to start building! However, I immediately ran into the problem that there are very few understandable examples of implementing DDD onilne, except for a few very basic ones. That's why I used ChatGPT during my learning process. I'd encourage you to do this, too! Check out [the next blog](https://ejorritsma.github.io/blog/2026/04/14/ddd-chatgpt-as-coach.html) for some helpful tips!
