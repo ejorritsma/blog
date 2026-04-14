@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my kickass blog!
 ---
+Howdy y'all, hope you feel welcome here.
