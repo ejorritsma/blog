@@ -1,5 +1,5 @@
 ---
-title: "DDD By Yourself: ChatGPT As a Coach"
+title: "DDD By Yourself 2: ChatGPT As a Coach"
 date: 2026-04-14
 ---
 
