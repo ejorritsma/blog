@@ -34,3 +34,5 @@ Eventually, I came up with two domain entities: `Asset` and `MaintenanceTask`. T
 
 ### To the task!
 Now that we have our problem domain, it is time to start building! However, I immediately ran into the problem that there are very few understandable examples of implementing DDD onilne, except for a few very basic ones. That's why I used ChatGPT during my learning process. I'd encourage you to do this, too! Check out [the next blog](https://ejorritsma.github.io/blog/2026/04/14/ddd-chatgpt-as-coach.html) for some helpful tips!
+
+> this post was written without AI
