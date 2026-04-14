@@ -30,3 +30,5 @@ During this stage, it was especially important to stay vigilant in two ways. Fir
 I think ChatGPT can be a useful tool during any learning process, especially when you're doing it by yourself. However, you need to be clear about the guardrails (no cookie-cutter answers) and stay critical of overly complex solutions.
 
 I learned a lot about DDD by building the software piece by piece with my ChatGPT sidekick. I'd recommend it to anyone who wants to learn a new concept by implementing it, especially when doing it by yourself!
+
+> this post was written without AI
